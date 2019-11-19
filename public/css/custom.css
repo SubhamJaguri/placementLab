@@ -1,0 +1,6 @@
+.rd-navbar-static .rd-nav-item>.rd-navbar-submenu-toggle {
+    display: none;
+}
+.text-dark{
+    color: #000;
+}
